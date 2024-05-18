@@ -2,6 +2,7 @@
     "manifest_version":3,
     "version": "1.0.0",
     "name": "ChromaCol",
+    "description": "For devs to change page bg and texts colors in seconds",
     "icons":{
         "32": "dobe.png",
         "48":"dobe.png",

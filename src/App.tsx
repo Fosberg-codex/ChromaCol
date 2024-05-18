@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <div className='font-bold text-3xl'>Welcome to ChromaCol: <br></br> The Page-Colors-Tester</div>
+      <div className='font-bold text-xl'>Change page bg and texts colors in seconds</div>
       {/* <input type="color" onChange={(e)=>setColor(e.target.value)} /> */}
       <div className="card">
         
