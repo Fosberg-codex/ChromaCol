@@ -1,0 +1,21 @@
+{
+    "manifest_version":3,
+    "version": "1.0.0",
+    "name": "ChromaCol",
+    "icons":{
+        "32": "dobe.png",
+        "48":"dobe.png",
+        "128":"dobe.png"
+       },
+    "action":{
+        "default_popup":"index.html"
+    },
+    "permissions":[
+        "scripting"
+    ],
+    "host_permissions":[
+        "http://*/*",
+        "https://*/*"
+    
+    ]
+}
